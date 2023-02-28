@@ -1,0 +1,27 @@
+body { background-color: rgb(219, 248, 238); font-family: Arial, Helvetica, sans-serif;  font-size: 14px;
+    color: rgb(2, 2, 20);}
+
+
+  h1 {
+    color: rgb(19, 19, 18);
+    background-color: rgb(115, 117, 114);
+  }
+
+  .ju {background-color: rgb(30, 189, 189); margin-left: 20px;}
+
+  h2 {
+    color: rgb(2, 2, 2);
+    background-color: rgb(115, 117, 114); }
+
+
+img {border-radius: 50%;}
+ 
+
+.mhhh {
+    background-color: rgb(243, 246, 246);
+    margin-right: 1330px;
+}
+
+img { margin-top: 20px;}
+
+header {color: rgb(14, 65, 52); font-size: medium; text-align: center;}
